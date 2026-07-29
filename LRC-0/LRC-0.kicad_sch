@@ -9460,7 +9460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:XCVR_ESP32-C6-MINI-1U-H4"
+		(property "Footprint" "ESP32_C6_MINI_1U_H4:XCVR_ESP32-C6-MINI-1U-H4"
 			(at 144.78 124.46 0)
 			(hide yes)
 			(show_name no)
