@@ -1,4 +1,4 @@
-(sym_lib_table
+(fp_lib_table
 	(version 7)
 	(lib (name "ESP32_C6_MINI_1U_H4") (type "KiCad") (uri "C:/Users/Luke Chen/Downloads/ESP32_C6_MINI_1U_H4") (options "") (descr ""))
 	(lib (name "TX32_33015S_32_000_X_R") (type "KiCad") (uri "C:/Users/Luke Chen/Downloads/TX32_33015S_32_000_X_R") (options "") (descr ""))
