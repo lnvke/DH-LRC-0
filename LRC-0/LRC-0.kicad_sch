@@ -12027,7 +12027,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 182.88 102.108 90)
 			(hide yes)
 			(show_name no)
@@ -12503,7 +12503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
+		(property "Footprint" "RF_Module:ESP32-C6-MINI-1"
 			(at 134.62 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13298,7 +13298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 193.04 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -14368,7 +14368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
 			(at 196.85 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -15116,7 +15116,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 111.76 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -16588,7 +16588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 115.57 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -16775,7 +16775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 195.58 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -18168,11 +18168,11 @@
 			"71c18b28-62ed-4446-afc7-e04ec1ab4e79" "7fe9ad48-b7a8-48d8-a205-dfc00b0a51a1"
 			"8beb553b-cd71-4e2b-a772-223167ccf878" "8e41ce3d-0b87-4755-b8d2-33e1843013d6"
 			"9afd77c0-5f47-4f9b-a946-7a0d697fb9e0" "a762f8ca-3cb3-47ad-83c8-88d4d1871ef0"
-			"b8249c6d-6442-4dcc-b269-77d21086703b" "ba0c39e8-2f22-4ef4-b4bf-0d328bdf618f"
-			"be78885b-46cc-4838-9a52-e03407f3397f" "c0b069ea-f682-487e-baeb-4ab8c4c13c54"
-			"c34ebc55-6302-44df-86b4-516ed0bf5561" "cca19fa7-7724-4027-83f7-f2765abfb53f"
-			"d84ddb03-7766-49f6-835f-c54dc88e8ff7" "dac14064-bced-4c53-b135-80ee0dbc89d7"
-			"dd5d8867-83af-4731-9750-1446e3d6ecbc" "f1fb2587-afb8-41b9-9758-8f391ef28328"
+			"b8249c6d-6442-4dcc-b269-77d21086703b" "be78885b-46cc-4838-9a52-e03407f3397f"
+			"c0b069ea-f682-487e-baeb-4ab8c4c13c54" "c34ebc55-6302-44df-86b4-516ed0bf5561"
+			"cca19fa7-7724-4027-83f7-f2765abfb53f" "d84ddb03-7766-49f6-835f-c54dc88e8ff7"
+			"dac14064-bced-4c53-b135-80ee0dbc89d7" "dd5d8867-83af-4731-9750-1446e3d6ecbc"
+			"f1fb2587-afb8-41b9-9758-8f391ef28328"
 		)
 	)
 	(group ""
