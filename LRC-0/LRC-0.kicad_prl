@@ -4,8 +4,14 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "hidden_nets": [
+      "+5V",
+      "+3V3",
+      "/D-",
+      "/D+",
+      "/BAT+"
+    ],
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -19,12 +25,12 @@
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
-      "graphics": true,
+      "graphics": false,
       "keepouts": true,
       "lockedItems": false,
       "otherItems": true,
       "pads": true,
-      "text": true,
+      "text": false,
       "tracks": true,
       "vias": true,
       "zones": true
@@ -77,6 +83,8 @@
       false,
       false,
       false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -89,7 +97,9 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
       162,
