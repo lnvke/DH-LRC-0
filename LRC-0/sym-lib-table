@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "ESP32_C6_MINI_1U_H4") (type "KiCad") (uri "/home/lnvke/DH-LRC-0/Libraries/ESP32_C6_MINI_1U_H4") (options "") (descr ""))
 	(lib (name "TX32_33015S_32_000_X_R") (type "KiCad") (uri "/home/lnvke/DH-LRC-0/Libraries/TX32_33015S_32_000_X_R") (options "") (descr ""))
+	(lib (name "04qsrbf") (type "KiCad") (uri "/home/lnvke/Desktop/DH-LRC-0/Libraries/04qsrbf") (options "") (descr ""))
+	(lib (name "4259_63") (type "KiCad") (uri "/home/lnvke/Desktop/DH-LRC-0/Libraries/4259_63") (options "") (descr ""))
 )
