@@ -1,5 +1,5 @@
 
-(footprint XCVR_ESP32-C6-MINI-1U-H4 (layer F.Cu) (tedit 6A6A034B)
+(footprint XCVR_ESP32-C6-MINI-1U-H4 (layer F.Cu) (tedit 6A871F02)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at -3.675 -8.135 0) (layer F.SilkS)
