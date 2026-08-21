@@ -52,18 +52,18 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 1.0,
-          "corner_smoothing": 2,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.25,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
-          "pad_connection": 0,
+          "min_thickness": 0.05,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.25,
           "thermal_relief_spoke_width": 0.25
@@ -150,7 +150,7 @@
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
@@ -160,7 +160,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.05,
         "min_via_diameter": 0.15,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -523,7 +523,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "tuning_profile": "",
-        "via_diameter": 0.6,
+        "via_diameter": 0.4,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -664,7 +664,7 @@
         "uuid": "a4fcac9a-bf35-4c24-be09-41c3c4d3bdce"
       }
     ],
-    "used_designators": "FB1,L1-4,H1-4,BT1,J1-7,FL1,Y1,#PWR1-34,TH1,SW1-5,AE1-2,C1-29,D1-4,U1-11,R1-20",
+    "used_designators": "SW1-5,AE1-2,C1-29,D1-4,U1-11,R1-20,FB1,L1-4,H1-4,BT1,J1-7,Y1,#PWR1-34,FL1,TH1",
     "variants": []
   },
   "sheets": [
