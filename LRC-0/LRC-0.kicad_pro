@@ -146,7 +146,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.09,
+        "min_clearance": 0.1,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -664,7 +664,7 @@
         "uuid": "a4fcac9a-bf35-4c24-be09-41c3c4d3bdce"
       }
     ],
-    "used_designators": "J1-7,BT1,TH1,SW1-5,AE1-2,C1-29,D1-4,U1-11,R1-20,FL1,Y1,#PWR1-34,FB1,L1-4,H1-4",
+    "used_designators": "FB1,L1-4,H1-4,BT1,J1-7,TH1,SW1-5,AE1-2,C1-29,D1-4,U1-11,R1-20,FL1,Y1,#PWR1-34",
     "variants": []
   },
   "sheets": [
