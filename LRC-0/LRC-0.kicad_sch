@@ -7779,12 +7779,6 @@
 		(uuid "a3c69f2a-dd48-4026-a3b0-4b3f353b0889")
 	)
 	(junction
-		(at 171.45 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a49d2130-66d8-4473-967d-f77c0aa01b2b")
-	)
-	(junction
 		(at 251.46 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7855,12 +7849,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb8259f2-56cf-4474-8452-cb513baefef1")
-	)
-	(junction
-		(at 160.02 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c18f9d63-d475-4a42-912b-2d4769324842")
 	)
 	(junction
 		(at 115.57 30.48)
@@ -8824,16 +8812,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 120.65) (xy 171.45 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a5e264a-4e2e-40fb-9207-b205a9e3696d")
-	)
-	(wire
-		(pts
 			(xy 33.02 124.46) (xy 33.02 130.81)
 		)
 		(stroke
@@ -9291,16 +9269,6 @@
 			(type default)
 		)
 		(uuid "6d0af722-d5a5-4ed0-9b3d-8288a4a30f60")
-	)
-	(wire
-		(pts
-			(xy 171.45 120.65) (xy 190.5 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d318f9b-f12b-4078-8fcf-c5d98e62289d")
 	)
 	(wire
 		(pts
@@ -14228,7 +14196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopOnly"
 			(at 35.56 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -17561,7 +17529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopOnly"
 			(at 35.56 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -19791,7 +19759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopOnly"
 			(at 35.56 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -20109,7 +20077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopOnly"
 			(at 35.56 130.81 0)
 			(hide yes)
 			(show_name no)

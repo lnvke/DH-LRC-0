@@ -4,3 +4,30 @@
 08-30 17:00:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 5.0.0
 
 08-30 17:00:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x74f24de27650>
+08-30 17:22:38 com_github_Steffen-W_KiCad-Parasitics.ngspyce.sharedspice 73:Warning: can't find the initialization file spinit.
+08-30 18:40:44 com_github_Steffen-W_KiCad-Parasitics.ngspyce.sharedspice 73:Warning: can't find the initialization file spinit.
+08-30 20:29:01 impart_plugin 46:Plugin initialization started on Linux
+08-30 20:29:01 impart_plugin 47:Python executable: /usr/bin/python3
+08-30 20:29:01 impart_plugin 48:Python version: 3.14.4 (main, Jun 18 2026, 14:25:02) [GCC 15.2.0]
+08-30 20:29:01 impart_plugin 49:Plugin directory: /home/lnvke/.local/share/kicad/10.0/3rdparty/plugins/com_github_Steffen-W_impartGUI
+08-30 20:29:01 impart_plugin 137:Plugin started
+08-30 20:29:01 impart_plugin 83:Added kiutils to sys.path: /home/lnvke/.local/share/kicad/10.0/3rdparty/plugins/com_github_Steffen-W_impartGUI/kiutils/src
+08-30 20:29:01 impart_plugin 91:Added easyeda2kicad to sys.path: /home/lnvke/.local/share/kicad/10.0/3rdparty/plugins/com_github_Steffen-W_impartGUI/easyeda2kicad
+08-30 20:29:01 impart_plugin 97:Added plugin directory to sys.path: /home/lnvke/.local/share/kicad/10.0/3rdparty/plugins/com_github_Steffen-W_impartGUI
+08-30 20:29:01 impart_plugin 99:All submodule paths configured successfully
+08-30 20:29:01 impart_plugin 171:Starting plugin frontend
+08-30 20:29:01 root 70:Successfully imported wx module
+08-30 20:29:01 com_github_Steffen-W_impartGUI.kicad_cli 48:Found KiCad CLI in PATH: kicad-cli
+08-30 20:29:01 com_github_Steffen-W_impartGUI.KiCadImport 44:kicad_cli initialized successfully
+08-30 20:29:01 root 85:Successfully imported all local modules using relative imports
+08-30 20:29:02 root 377:Running in FALLBACK MODE (called from pcbnew)
+08-30 20:29:02 root 389:Fallback mode: Skipping IPC server registration
+08-30 20:29:02 root 193:Initializing ImpartBackend
+08-30 20:29:02 com_github_Steffen-W_impartGUI.KiCad_Settings 42:Initializing KiCad_Settings with path: /home/lnvke/.config/kicad/10.0
+08-30 20:29:02 com_github_Steffen-W_impartGUI.FileHandler 52:Changed directory to '.'
+08-30 20:29:02 root 210:Successfully initialized all backend components
+08-30 20:29:02 root 211:KiCad settings path: /home/lnvke/.config/kicad/10.0
+08-30 20:29:02 root 919:Created new backend handler
+08-30 20:29:07 root 570:No auto import: Closing everything completely
+08-30 20:29:07 impart_plugin 179:Plugin stopped
+08-30 21:23:19 root 199:IPC server stopped
