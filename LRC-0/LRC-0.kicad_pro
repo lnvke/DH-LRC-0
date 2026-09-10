@@ -550,7 +550,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/LRC-0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -673,7 +673,7 @@
         "uuid": "a4fcac9a-bf35-4c24-be09-41c3c4d3bdce"
       }
     ],
-    "used_designators": "D1-4,U1-11,R1-20,FB1,L1-4,H1-4,BT1,J1-7,Y1,#PWR1-34,#PWR38,FL1,TH1,SW1-5,AE1-2,C1-29",
+    "used_designators": "FB1,L1-4,H1-4,BT1,J1-7,TH1,SW1-5,AE1-2,C1-29,D1-4,U1-11,R1-20,FL1,Y1,#PWR1-34,#PWR38",
     "variants": []
   },
   "sheets": [
